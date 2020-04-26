@@ -30,7 +30,7 @@ function App() {
                 Authorization: apiKey
               },
               params: {
-                location: 'oregon',
+                location: 'mooresville',
                 latitude: coords.latitude,
                 longitude: coords.longitude,
                 term: searchKeyword,
